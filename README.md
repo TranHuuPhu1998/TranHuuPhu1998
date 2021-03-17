@@ -15,13 +15,13 @@
 
 - Quiz-App: https://github.com/TranHuuPhu1998/React_Quiz_App
 - Demo-Quiz-App: https://quiz-app-nextjs.herokuapp.com/
-- 
+
 - MERN_Stack_Socketio : https://github.com/TranHuuPhu1998/MERN_Stack_Socketio
 - Demo-MERN_Stack_Socketio: https://mern-stack-socketio-realtime.herokuapp.com/
 
 ## Projects #Working my project freeland 
 
-- https://webskills-test.com/kentei/signup
+- Demo : https://webskills-test.com/kentei/signup
 - ReactJS Dev (render data , Add , Delete , Edit Data with API Nodejs) , Cut PSD
 
 ## My Skill
