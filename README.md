@@ -8,7 +8,7 @@
 
 - FrontEnd Developer at IFV Huế 
 
-## Projects for teaching
+## My Projects
 
 - Memo-App: https://github.com/TranHuuPhu1998/memo-app
 - Demo-App-Memo: https://mern-memo-app.herokuapp.com/
