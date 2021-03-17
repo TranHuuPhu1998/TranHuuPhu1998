@@ -19,7 +19,7 @@
 - MERN_Stack_Socketio : https://github.com/TranHuuPhu1998/MERN_Stack_Socketio
 - Demo-MERN_Stack_Socketio: https://mern-stack-socketio-realtime.herokuapp.com/
 
-## Projects #Working my project freeland 
+## Projects #Working my for project freeland 
 
 - Demo : https://webskills-test.com/kentei/signup
 - ReactJS Dev (render data , Add , Delete , Edit Data with API Nodejs) , Cut PSD
