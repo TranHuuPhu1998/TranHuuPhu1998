@@ -16,9 +16,6 @@
 - Quiz-App: https://github.com/TranHuuPhu1998/React_Quiz_App
 - Demo-Quiz-App: https://quiz-app-nextjs.herokuapp.com/
 
-- MERN_Stack_Socketio : https://github.com/TranHuuPhu1998/MERN_Stack_Socketio
-- Demo-MERN_Stack_Socketio: https://mern-stack-socketio-realtime.herokuapp.com/
-
 ## Projects #Working my for project freeland 
 
 - Demo : https://webskills-test.com/kentei/signup
