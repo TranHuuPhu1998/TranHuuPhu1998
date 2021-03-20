@@ -23,6 +23,6 @@
 
 ## My Skill
 - HTML , CSS , JS , JQUERY
-- REACTJS , restful api express 
+- REACTJS ,NEXTJS , restful api express 
 - Mongodb , MySQL
 
