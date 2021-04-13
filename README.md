@@ -15,14 +15,20 @@
 
 - Quiz-App: https://github.com/TranHuuPhu1998/React_Quiz_App
 - Demo-Quiz-App: https://quiz-app-nextjs.herokuapp.com/
+- 
+x React Saga App : https://github.com/TranHuuPhu1998/Nextjs-Redux-Saga-TailWind
 
-## Projects #Working my for project freeland 
+##Working my for project freeland 
 
 - Demo : https://webskills-test.com/kentei/signup
 - ReactJS Dev (render data , Add , Delete , Edit Data with API Nodejs) , Cut PSD
 
 ## My Skill
 - HTML , CSS , JS , JQUERY
-- REACTJS ,NEXTJS , restful api express 
+- REACTJS (redux-thunk,redux-saga) ,NEXTJS 
 - Mongodb , MySQL
+
+- BASIC RESTFUL API NODEJS , LARAVEL
+
+
 
