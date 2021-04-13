@@ -6,8 +6,9 @@
 
 ## Working <a href="https://github.com/paulnguyen-mn"><img align="left" width="auto" height="200" src="https://res.cloudinary.com/kimwy/image/upload/v1598840300/easyfrontend/programming_hgngx9.png"></a>
 
-- FrontEnd Developer at IFV Huế 
-
+- About month 01/07/2021 : started working as FrontEnd Developer at IFV Hue 
+- Currently working on FrontEnd Developer at IFV Hue
+- The main work is to use html css js to create and update Japanese websites
 ## My Projects
 
 - Memo-App: https://github.com/TranHuuPhu1998/memo-app
@@ -15,17 +16,17 @@
 
 - Quiz-App: https://github.com/TranHuuPhu1998/React_Quiz_App
 - Demo-Quiz-App: https://quiz-app-nextjs.herokuapp.com/
-- 
-x React Saga App : https://github.com/TranHuuPhu1998/Nextjs-Redux-Saga-TailWind
 
-##Working my for project freeland 
+- React Saga App : https://github.com/TranHuuPhu1998/Nextjs-Redux-Saga-TailWind
+
+## Working my for project freeland 
 
 - Demo : https://webskills-test.com/kentei/signup
 - ReactJS Dev (render data , Add , Delete , Edit Data with API Nodejs) , Cut PSD
 
 ## My Skill
 - HTML , CSS , JS , JQUERY
-- REACTJS (redux-thunk,redux-saga) ,NEXTJS 
+- REACTJS (redux-thunk,redux-saga) , NEXTJS 
 - Mongodb , MySQL
 
 - BASIC RESTFUL API NODEJS , LARAVEL
