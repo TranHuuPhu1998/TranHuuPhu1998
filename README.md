@@ -19,7 +19,7 @@
 
 - React Saga App : https://github.com/TranHuuPhu1998/Nextjs-Redux-Saga-TailWind
 
--RESTFUl API LARAVEL : https://github.com/TranHuuPhu1998/laravel_quiz
+- RESTFUl API LARAVEL : https://github.com/TranHuuPhu1998/laravel_quiz
 ## Working my for project freeland 
 
 - Demo : https://webskills-test.com/kentei/signup
