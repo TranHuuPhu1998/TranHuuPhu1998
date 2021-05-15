@@ -19,17 +19,22 @@
 
 - React Saga App : https://github.com/TranHuuPhu1998/Nextjs-Redux-Saga-TailWind
 
+-RESTFUl API LARAVEL : https://github.com/TranHuuPhu1998/laravel_quiz
 ## Working my for project freeland 
 
 - Demo : https://webskills-test.com/kentei/signup
-- ReactJS Dev (render data , Add , Delete , Edit Data with API Nodejs) , Cut PSD
+- My job : ReactJS Dev (render data , Add , Delete , Edit Data with API Nodejs) , Cut PSD
 
 ## My Skill
+
 - HTML , CSS , JS , JQUERY
 - REACTJS (redux-thunk,redux-saga) , NEXTJS 
 - Mongodb , MySQL
-
 - BASIC RESTFUL API NODEJS , LARAVEL
 
+## Other Information
 
+- Interests: Playing soccer, eating seafood, listening to music, watching cartoons
+- Often do exercises at https://codelearn.io/ to improve thinking ability
+- Regularly read and learn new knowledge on blogs for programming like https://anonystick.com/
 
