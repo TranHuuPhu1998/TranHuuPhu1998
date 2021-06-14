@@ -37,4 +37,4 @@
 - Interests: Playing soccer, eating seafood, listening to music, watching cartoons
 - Often do exercises at https://codelearn.io/ to improve thinking ability
 - Regularly read and learn new knowledge on blogs for programming like https://anonystick.com/
-- cv : https://i.topcv.vn/tranhuuphu?ref=4242167
+- cv : https://i.topcv.vn/tranhuuphu?ref=4242196
